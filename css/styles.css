@@ -44,3 +44,11 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+.teste {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+}
+.teste:hover {
+  background-color: blueviolet;
+}
